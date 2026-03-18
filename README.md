@@ -1,0 +1,2 @@
+# sangara
+setting up git
